@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Passionate about building scalable web apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;TypeScript+%7C+Next.js+%7C+AWS+Lover;CI%2FCD+%7C+OAuth+%7C+Cloud+Ready" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;" alt="Typing animation" />
 </p>
 
 ---
@@ -10,9 +10,6 @@
 ### 🔥 About Me
 
 - 🔭 I’m currently building **a feature-rich one-to-one chat app**
-- 🌱 Exploring **AWS (EC2, S3), Docker, CI/CD pipelines**
-- 💡 Passionate about clean architecture, system design, and DevOps
-- 🧠 Learning **SOLID principles**, design patterns, and scaling strategies
 - 📫 Reach me at: [lijo.ns13@gmail.com](mailto:lijo.ns13@gmail.com)
 
 ---
