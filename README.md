@@ -57,16 +57,16 @@
 ### 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lijons/" target="_blank">
+  <a href="https://www.linkedin.com/in/lijo-ns/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@lijo.ns13" target="_blank">
+  <a href="https://medium.com/@lijons13" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" />
   </a>
-  <a href="https://leetcode.com/lijo-ns13" target="_blank">
+  <a href="https://leetcode.com/u/lijons/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://instagram.com/lijo.ns" target="_blank">
+  <a href="https://www.instagram.com/lijo_sunny__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
