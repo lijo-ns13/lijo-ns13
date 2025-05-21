@@ -10,7 +10,7 @@
 ### 🔥 About Me
 
 - 🔭 I’m currently building **a feature-rich one-to-one chat app**
-- 📫 Reach me at: [lijo.ns13@gmail.com](mailto:lijo.ns13@gmail.com)
+- 📫 Reach me at: [lijons13@gmail.com](mailto:lijons13@gmail.com)
 
 ---
 
