@@ -77,32 +77,7 @@ Stripe, Razorpay, Socket.io, WebRTC — I’ve built and wired them into real pr
 
 </div>
 
----
 
-## 📂 Selected Work
-
-*Replace the repo names below with your actual project repos. Each card links to the repo.*
-
-<div align="center">
-
-<a href="https://github.com/lijo-ns13">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=lijo-ns13&repo=lijo-ns13&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Repo 1" height="120"/>
-</a>
-<a href="https://github.com/lijo-ns13?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=lijo-ns13&repo=lijo-ns13&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Repo 2" height="120"/>
-</a>
-
-</div>
-
-<div align="center">
-
-*👉 **Tip:** Edit the `repo=` value in the image URL to any public repo name (e.g. `repo=my-awesome-app`) to show it here.*
-
-[**View all repositories →**](https://github.com/lijo-ns13?tab=repositories)
-
-</div>
-
----
 
 ## 📊 In Numbers
 
