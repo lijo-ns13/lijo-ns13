@@ -19,12 +19,12 @@
 ```typescript
 const lijo = {
   role: "Full Stack Developer",
-  stack: ["React", "Node", "MongoDB", "TypeScript"],
   currently: "Building real products",
   superpowers: [
     "End-to-end ownership",
     "Real-time systems",
     "Payment integrations",
+    // and few more...
   ],
 };
 ```
@@ -87,17 +87,6 @@ const lijo = {
 </div>
 
 ---
-
-## 📊 Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lijo-ns13&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=1a1a2e" height="160"/>
-
-</div>
-
-
-<div align="center">
 
 **Got something interesting to build?**
 
