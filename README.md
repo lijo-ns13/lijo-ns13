@@ -96,32 +96,6 @@ const lijo = {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lijo-ns13&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="100%"/>
-
-</div>
-
----
-
-## 🔭 Right Now
-
-```
-▸  Crafting scalable MERN applications
-▸  Exploring microservices & advanced TypeScript patterns
-▸  Writing on Medium about real engineering problems
-▸  Pushing commits daily  →  check the graph above ↑
-```
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lijo-ns13&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
