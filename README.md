@@ -1,138 +1,137 @@
+<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header&text=Lijo+NS&fontSize=60&fontColor=fff&animation=twinkling" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   $ whoami                                                   ║
+║   > Lijo NS — Full Stack Developer                          ║
+║                                                              ║
+║   $ cat skills.txt                                           ║
+║   > MERN · TypeScript · Real-time · Payments · Cloud        ║
+║                                                              ║
+║   $ echo $STATUS                                             ║
+║   > Open to full-time roles & collaborations ✔              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-### **Full Stack Developer** · MERN · TypeScript · Real-time & APIs
-
-*I design systems, ship features, and write code that scales.*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=From+idea+to+production.;Real-time+%7C+Payments+%7C+APIs;Open+to+opportunities+%E2%9C%94)](https://github.com/lijo-ns13)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lijo-ns/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lijons13)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lijons/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lijons13@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=lijo-ns13&label=Profile+views&color=58A6FF&style=for-the-badge" alt="Profile views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lijo-ns/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@lijons13)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/lijons/)
+[![Email](https://img.shields.io/badge/lijons13@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lijons13@gmail.com)
 
 </div>
 
 ---
 
-<br/>
+## `interface Developer`
 
-## 🎯 What I Bring
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-**🖥️ Full-cycle ownership**  
-APIs, auth, DB design, and frontend — I own the stack.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**⚡ Ship, then refine**  
-Production-first. Clean architecture and type safety (TypeScript) so we can move fast without breaking things.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🔌 Integrations & real-time**  
-Stripe, Razorpay, Socket.io, WebRTC — I’ve built and wired them into real products.
-
-</td>
-</tr>
-</table>
+```typescript
+const lijo = {
+  role:       "Full Stack Developer",
+  stack:      ["React", "Node.js", "Express", "MongoDB", "TypeScript"],
+  strengths:  ["System Design", "Real-time Features", "Payment Integrations", "Clean Architecture"],
+  cloud:      ["AWS", "Docker"],
+  currently:  "Building scalable MERN apps with microservice patterns",
+  seeking:    "Full-time · Contract · Open Source Collaboration",
+} satisfies Developer;
+```
 
 ---
 
-## 🛠️ Built With
+## What I Actually Ship
+
+**End-to-end ownership** — I don't hand off at the API boundary. I take features from DB schema through business logic to the React component, and I own the deployment.
+
+**Real-time & Integrations** — Socket.io for live collaboration, WebRTC for peer connections, Stripe & Razorpay wired into actual production checkout flows. Not tutorials — shipped products.
+
+**TypeScript by default** — Not as a formality. Strict mode, domain types, and interfaces that make PRs reviewable and refactors safe.
+
+**Scalability as a first-class concern** — I think in terms of load, fault tolerance, and DB indexes before writing the first function, not after the first bottleneck.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-**Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Core**
 
-**Backend & Data**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Tools & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**UI & State**
 
-</div>
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Integrations & Real-time**
 
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-## 📊 In Numbers
+**Cloud & DevOps**
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lijo-ns13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lijo-ns13&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lijo-ns13&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijo-ns13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Langs" height="140"/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## GitHub Activity
 
 <div align="center">
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=lijo-ns13&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true)
+<img src="https://github-readme-stats.vercel.app/api?username=lijo-ns13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lijo-ns13&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lijo-ns13&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🧭 Currently
+## Currently
 
-| 🏗️ Building | 📚 Learning | 🎯 Open to |
-|-------------|-------------|------------|
-| Scalable MERN apps, real-time features | Microservices, advanced TypeScript, DevOps | Full-time · Contracts · Collaborations |
+```
+▸ Building   →  Scalable MERN applications with microservice architecture
+▸ Learning   →  Advanced TypeScript patterns · Microservices · DevOps pipelines  
+▸ Writing    →  Technical articles on Medium about real-world engineering problems
+▸ Available  →  Full-time roles · Contract projects · Open source contributions
+```
 
 ---
 
-## 💬 Let's Build Something
+## Let's Build Something
+
+I'm most useful to teams that move fast and care about code quality in equal measure. If you're building something real and need someone who owns their work from schema to UI — let's talk.
 
 <div align="center">
 
-**Have a project in mind or want to connect?**
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lijo-ns/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lijons13@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/Message_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lijo-ns/)
-[![Email](https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lijons13@gmail.com)
+</div>
 
-<img src="https://img.shields.io/github/followers/lijo-ns13?label=Follow+on+GitHub&style=social" alt="Follow"/>
+---
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer&fontSize=50" width="100%"/>
-
+<div align="center">
+<sub>Built with intent. Maintained with consistency. Open to the right opportunity.</sub>
 </div>
