@@ -5,11 +5,6 @@
 </div>
 
 ---
-
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=lijo-ns13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-### `> cat about.ts`
-
 ```typescript
 const lijo = {
   role: "Full Stack Developer",
