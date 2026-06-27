@@ -2,8 +2,6 @@
 
 <img src="Gemini_Generated_Image_ziaicjziaicjziai.png" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=MERN+%7C+TypeScript+%7C+Real-time+%7C+Payments;Designing+systems+that+scale.;Writing+code+that+ships.;Currently+building+real+products+%E2%86%92)](https://github.com/lijo-ns13)
-
 </div>
 
 ---
