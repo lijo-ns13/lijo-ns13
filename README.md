@@ -7,12 +7,18 @@
 ---
 ```typescript
 const lijo = {
-  role: "Full Stack Developer",
-  currently: "Building real products",
+  role: "Backend Engineer",
+  domain: "FinTech",
+  currently: [
+    "Building real products",
+    "Building scalable backend services",
+    "Working on payment workflows"
+  ],
+  funFact:
+    "I really enjoy understanding how large-scale systems work behind the scenes."
   superpowers: [
     "End-to-end ownership",
     "Real-time systems",
-    "Payment integrations",
     // and few more...
   ],
 };
