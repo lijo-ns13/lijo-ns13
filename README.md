@@ -33,14 +33,3 @@ const lijo = {
 
 <br clear="right"/>
 
-
-<div align="center">
-
-**Got something interesting to build?**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lijo-ns/)
-[![Email](https://img.shields.io/badge/Drop_a_mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lijons13@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=100&section=footer&animation=twinkling" width="100%"/>
-
-</div>
