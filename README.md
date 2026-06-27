@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a2e,100:0f3460&height=220&section=header&text=Lijo%20NS&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=76&descSize=22&descColor=8b949e&stroke=58A6FF&strokeWidth=2" width="100%"/>
+<img src="Gemini_Generated_Image_ziaicjziaicjziai.png" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=MERN+%7C+TypeScript+%7C+Real-time+%7C+Payments;Designing+systems+that+scale.;Writing+code+that+ships.;Currently+building+real+products+%E2%86%92)](https://github.com/lijo-ns13)
 
