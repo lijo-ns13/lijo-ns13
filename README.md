@@ -34,21 +34,6 @@ const lijo = {
 
 <br clear="right"/>
 
----
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lijo-ns13&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=1a1a2e)](https://github.com/lijo-ns13)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lijo-ns13&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
