@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Gemini_Generated_Image_ziaicjziaicjziai.png" width="100%"/>
+<img src="Gemini_Generated_Image_ziaicjziaicjziai.png" width="80%"/>
 
 </div>
 
