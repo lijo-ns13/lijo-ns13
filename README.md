@@ -15,7 +15,7 @@ const lijo = {
     "Working on payment workflows"
   ],
   funFact:
-    "I really enjoy understanding how large-scale systems work behind the scenes."
+    "I really enjoy understanding how large-scale systems work behind the scenes.",
   superpowers: [
     "End-to-end ownership",
     "Real-time systems",
